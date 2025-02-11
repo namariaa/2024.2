@@ -23,3 +23,10 @@ Incialmente, fomos todos juntos para a DIGTI que é o local que o datacenter se 
 
 ## Considerações finais
 O que foi aprendido na visita?
+- A estrutura como um todo deve ser adaptada para a existência do datacenter, como ambiente que faz o controle de temperatura, piso falso para a passagem dos fios, aparatos para controle de incêncio, gabinete/rack com saída para ar quente e outros recursos de adaptação.
+- O monitoramento do ambiente é feito 24 horas por dia com a ajuda de tecnologias que possibilitam de forma remota ter esse controle de cada máquina, se está funcionado ou não e se seu funcionamento está dentro do previsto
+- Para manter um datacenter custa muito dinheiro pois todas as máquinas são muito custosas
+- Eles recebem dados de vários campos do do IFRN ao longo do Rio Grande do Norte
+- Dados de aplicações do IFRN como o SUAP são mantidos lá
+- Com quedas de energia o cuidado é redobrado para que o gerador dê conta para a manutenção da energia ser feita e nenhuma máquina ter risco de queimar pois seria um grande prejuizo
+- O monitoramento é feito tanto no próprio datacenter quanto na reitoria de forma remota  
