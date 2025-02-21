@@ -21,3 +21,4 @@ Mas, com isso apenas criamos a imagem não fazendo a execução em nenhum moment
 - Ports: Em que porta a aplicação está e a portqa do conteiner para conectar os dois
 
 ### Arquivos docker e de configuração do django
+Como os arquivos não são suportados em markdown colocarei no mesmo diretório que está o relatório. O nome já exemplifica o que contém em cada arquivo, como dockerfile é o dockerfile e o setting são as configurações do nosso projeto no django.
